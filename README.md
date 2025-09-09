@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on **Student Exam Suevillence System**
 
 - 🌱 I’m currently learning **Data Science, Tailwind CSS, Backend Developement**
+- 🔭 I’m Intern at **NETLEAP IT Training & Solution**
+- 🔭 I’m Currently Intern at **Sumago Infotech Pvt. Ltd.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
