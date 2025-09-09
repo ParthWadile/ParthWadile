@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Student Exam Suevillence System**
 
-- 🌱 I’m currently learning **Data Science, Tailwind CSS**
+- 🌱 I’m currently learning **Data Science, Tailwind CSS, Backend Developement**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
