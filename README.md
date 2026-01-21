@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Student Exam Suevillence System**
 - 🔭 I’m Intern at **NETLEAP IT Training & Solution**
 - 🔭 I’m Currently Intern at **Sumago Infotech Pvt. Ltd.**
-- - 🌱 Learning **Backend Development** & scalable system design
+- 🌱 Learning **Backend Development** & scalable system design
 - 🚀 Love working on real-world projects & exploring new tech
 
 <h3 align="left">Connect with me:</h3>
