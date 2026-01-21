@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Sanjay Wadile</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
-- 🔭 I’m currently working on **Student Exam Suevillence System**
+- 🔭 I’m currently working on **AI-Student Exam Suevillence System**
 - 🔭 I’m Intern at **NETLEAP IT Training & Solution**
 - 🔭 I’m Currently Intern at **Sumago Infotech Pvt. Ltd.**
 - 🌱 Learning **Backend Development** & scalable system design
